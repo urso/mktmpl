@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "3w1n33TKtV0aoqU6skNPiOiyX3g=",
+			"path": "github.com/Masterminds/semver",
+			"revision": "15d8430ab86497c5c0da827b748823945e1cf1e1",
+			"revisionTime": "2017-10-04T14:25:31Z"
+		},
+		{
+			"checksumSHA1": "HQ1JY9GVh1XndI1v/SLztYDVA/I=",
+			"path": "github.com/Masterminds/sprig",
+			"revision": "b217b9c388de2cacde4354c536e520c52c055563",
+			"revisionTime": "2017-12-01T20:06:51Z",
+			"version": "v2.14.1",
+			"versionExact": "v2.14.1"
+		},
+		{
+			"checksumSHA1": "X0xGt0e0IkZeviF+pFRlpHP+xkE=",
+			"path": "github.com/aokoli/goutils",
+			"revision": "3391d3790d23d03408670993e957e8f408993c34",
+			"revisionTime": "2017-05-31T11:00:25Z"
+		},
+		{
+			"checksumSHA1": "6UaJp3hUpEJvcu7COoRNhHPlqfg=",
+			"path": "github.com/elastic/go-ucfg",
+			"revision": "ec8488a52542c0c51e42e8ea204dcaff400bc644",
+			"revisionTime": "2017-02-07T06:38:51Z",
+			"version": "v0.4.6",
+			"versionExact": "v0.4.6"
+		},
+		{
+			"checksumSHA1": "8cr5YhslUMgpvF2JebYvKC+Ezr4=",
+			"path": "github.com/elastic/go-ucfg/cfgutil",
+			"revision": "ec8488a52542c0c51e42e8ea204dcaff400bc644",
+			"revisionTime": "2017-02-07T06:38:51Z",
+			"version": "v0.4.6",
+			"versionExact": "v0.4.6"
+		},
+		{
+			"checksumSHA1": "uOrhvj7stlb0foxGZ5vbC1XJeto=",
+			"path": "github.com/elastic/go-ucfg/internal/parse",
+			"revision": "ec8488a52542c0c51e42e8ea204dcaff400bc644",
+			"revisionTime": "2017-02-07T06:38:51Z",
+			"version": "v0.4.6",
+			"versionExact": "v0.4.6"
+		},
+		{
+			"checksumSHA1": "qvzj0KzxrWvYhHIbo+FwBxUNDFw=",
+			"path": "github.com/elastic/go-ucfg/yaml",
+			"revision": "ec8488a52542c0c51e42e8ea204dcaff400bc644",
+			"revisionTime": "2017-02-07T06:38:51Z",
+			"version": "v0.4.6",
+			"versionExact": "v0.4.6"
+		},
+		{
+			"checksumSHA1": "5deXBmDZNMEMnChaT3ADqNiud0I=",
+			"path": "github.com/huandu/xstrings",
+			"revision": "37469d0c81a7910b49d64a0d308ded4823e90937",
+			"revisionTime": "2017-12-08T10:19:19Z"
+		},
+		{
+			"checksumSHA1": "IEMG/WoJ60tRkwJwbP7pp45eIDs=",
+			"path": "github.com/imdario/mergo",
+			"revision": "d9530a2528a468c1f75b67e01402c92f59670b2e",
+			"revisionTime": "2018-01-12T10:33:58Z"
+		},
+		{
+			"checksumSHA1": "cKNzpMpci3WUAzXpe+tVnBv2cjE=",
+			"path": "github.com/satori/go.uuid",
+			"revision": "f9ab0dce87d815821e221626b772e3475a0d2749",
+			"revisionTime": "2016-03-24T11:22:44Z",
+			"version": "v1.0.0",
+			"versionExact": "v1.0.0"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "5f55bce93ad2c89f411e009659bb1fd83da36e7b",
+			"revisionTime": "2018-01-08T14:34:49Z"
+		},
+		{
+			"checksumSHA1": "dHh6VeHcbNg11miGjGEl8LbPe7w=",
+			"path": "golang.org/x/crypto/scrypt",
+			"revision": "5f55bce93ad2c89f411e009659bb1fd83da36e7b",
+			"revisionTime": "2018-01-08T14:34:49Z"
+		},
+		{
+			"checksumSHA1": "AsL/fTkY1p1HNVSikhVZJd++Nrk=",
+			"path": "golang.org/x/tools/go/ast/astutil",
+			"revision": "fbec762f837dc349b73d1eaa820552e2ad177942",
+			"revisionTime": "2018-01-10T20:46:33Z"
+		},
+		{
+			"checksumSHA1": "A4PTlJrxT0eSlnVGhlWcs/3bUjc=",
+			"path": "golang.org/x/tools/imports",
+			"revision": "fbec762f837dc349b73d1eaa820552e2ad177942",
+			"revisionTime": "2018-01-10T20:46:33Z"
+		},
+		{
+			"checksumSHA1": "qOmvuDm+F+2nQQecUZBVkZrTn6Y=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "d670f9405373e636a5a2765eea47fac0c9bc91a4",
+			"revisionTime": "2018-01-09T11:43:31Z"
+		}
+	],
+	"rootPath": "github.com/urso/mktmpl"
+}
